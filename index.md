@@ -3,9 +3,11 @@
 
 # THUSIGSDRMLAB's Website
 
-An engaging 1-3 sentence description of your lab.
+THUSIGSDRMLAB is ……
 
 {% include section.html %}
+
+{% include figure.html image="images/QuanTi1.jpg" width="100%" %}
 
 ## Highlights
 
