@@ -1,7 +1,7 @@
 ---
 name: Hu Kun
 image: images/Hu Kun.png
-role: pi
+role: Student
 links:
   home-page: https://hukun.com
 ---
