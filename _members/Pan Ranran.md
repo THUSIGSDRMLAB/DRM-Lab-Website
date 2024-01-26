@@ -1,7 +1,8 @@
 ---
 name: Pan Ranran
 image: images/Pan Ranran.png
-role: Student
+role: watermark
+description: Master Student
 links:
   home-page: https://panranran.com
 ---
