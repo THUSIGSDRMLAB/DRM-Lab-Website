@@ -2,8 +2,8 @@
 title: Home
 carousels:
   - images: 
-    - image: /images/carousel/QuanTi1.jpg
-    - image: /images/carousel/QuanTi2.jpg
+    - image: /images/QuanTi1.jpg
+    - image: /images/QuanTi2.jpg
 ---
 
 # THUSIGSDRMLAB's Website
