@@ -11,7 +11,7 @@ Based on digital watermarking technology, the digital watermarking products of t
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: Student" %}
+{% include list.html data="members" component="portrait" filters="role: watermark" %}
 
 # <i class="fas fa-users"></i>Medical Team
 In September 2017, as the subject leader, the head of the laboratory undertook the key research and development project of the Ministry of Science and Technology of the People's Republic of China, "Research on the digital integrated equipment and hierarchical diagnosis and treatment system for sleep respiratory diseases", focusing on the research and development of flexible wearable sleep respiratory monitoring equipment, sleep respiratory disease service cloud, and AI intelligent diagnostic system for subgraphs. At the same time, the company takes the lead in formulating relevant industry standards for the diagnosis and treatment of sleep respiratory diseases, providing intelligent solutions for the establishment of a remote hierarchical diagnosis and treatment system for sleep respiratory diseases, the promotion of the construction of a chronic disease management system for obstructive sleep apnoea and other diseases, as well as the standardisation of the remote hierarchical diagnosis and treatment system.
