@@ -1,7 +1,8 @@
 ---
 name: Zang Jiazhen
 image: images/Zang Jiazhen.png
-role: Student
+role: watermark
+description: Master Student
 links:
   home-page: https://zangjiazhen.com
 ---
