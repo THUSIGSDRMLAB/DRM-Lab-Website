@@ -1,7 +1,8 @@
 ---
 name: Hu Zixuan
 image: images/Hu Zixuan.png
-role: Student
+role: watermark
+description: Master Student
 links:
   home-page: https://huzixuan.com
 ---
