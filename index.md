@@ -2,11 +2,8 @@
 title: Home
 carousels:
   - images: 
-    - image: /images/carousel/akkaya.webp
-    - image: /images/carousel/christmas.webp
-    - image: /images/carousel/wex.webp
-    - image: /images/carousel/lab.webp
-    - image: /images/carousel/dodd.webp
+    - image: /images/QuanTi1.jpg
+    - image: /images/QuanTi2.jpg
 ---
 
 # THUSIGSDRMLAB's Website
@@ -16,7 +13,7 @@ DRM has undertaken more than 20 national major projects and industrial projects 
 
 {% include section.html full=true %}
 
-{% include carousel.html height="40" unit="%" duration="10" number="1" %} 
+{% include carousel.html width="100" unit="%" duration="7" number="1" %}
  
 {% include section.html %}
 
