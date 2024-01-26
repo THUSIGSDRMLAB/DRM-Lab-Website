@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Watermark Group
 
-Our team includes the watermarking group, ……
+Based on digital watermarking technology, the digital watermarking products of the DRM Lab at Tsinghua University support the embedding and extraction of digital information on videos and pictures. The embedded watermark information is hidden in the carrier file, and the embedded watermark does not affect the visual quality and integrity of the video screen and pictures, which can be used in a variety of scenarios, such as copyright protection, leakage traceability, broadcasting surveillance, information transmission, and document authentication.
 
 {% include section.html %}
 
