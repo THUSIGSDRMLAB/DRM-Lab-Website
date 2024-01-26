@@ -214,3 +214,9 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+# add
+join:
+  icon: fa-regular fa-handshake
+  text: Join the Team
+  tooltip: Join the Team
