@@ -1,7 +1,8 @@
 ---
 name: Gao Heng
 image: images/Gao Heng.png
-role: Student
+role: watermark
+description: Master Student
 links:
   home-page: https://gaoheng.com
 ---
