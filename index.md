@@ -2,8 +2,11 @@
 title: Home
 carousels:
   - images: 
-    - image: /images/QuanTi1.jpg
-    - image: /images/QuanTi2.jpg
+    - image: /images/carousel/akkaya.webp
+    - image: /images/carousel/christmas.webp
+    - image: /images/carousel/wex.webp
+    - image: /images/carousel/lab.webp
+    - image: /images/carousel/dodd.webp
 ---
 
 # THUSIGSDRMLAB's Website
