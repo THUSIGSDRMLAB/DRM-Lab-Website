@@ -31,7 +31,8 @@ DRM Laboratory already has a series of core technologies and R&D experience in t
 
 {%
   include button.html
-  link="\contact"
+  link="contact"
+  include icon.html
   icon="fa-handshake"
   text="Join the Team"
   style="bare"
