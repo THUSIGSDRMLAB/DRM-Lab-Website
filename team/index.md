@@ -30,13 +30,12 @@ DRM Laboratory already has a series of core technologies and R&D experience in t
 {% include section.html dark=true %}
 
 {%
-  include link.html
-  type="link"
-  icon=""
+  include button.html
+  type="github"
+  link="\contact"
+  icon="fa-handshake"
   text="Join the Team"
-  link="/contact"
-  style="button"
+  style="bare"
 %}
-{:.center}
 
 {% include grid.html style="square" content=content %}
