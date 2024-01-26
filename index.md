@@ -16,7 +16,7 @@ DRM has undertaken more than 20 national major projects and industrial projects 
 
 {% include section.html full=true %}
 
-{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+{% include carousel.html height="40" unit="%" duration="10" number="1" %} 
  
 {% include section.html %}
 
