@@ -1,7 +1,8 @@
 ---
 name: Zhu Qianhui
 image: images/Zhu Qianhui.png
-role: Student
+role: watermark
+description: Master Student
 links:
   home-page: https://zhuqianhui.com
 ---
