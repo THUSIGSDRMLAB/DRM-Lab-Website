@@ -22,7 +22,17 @@ DRM has undertaken more than 20 national major projects and industrial projects 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+1. Big data analysis, artificial intelligence: as the project leader of the key research and development programme of the Ministry of Science and Technology of the People's Republic of China, leading ten industry-academia-medicine-research and development units, such as Peking Tongren Hospital, Shenzhen Graduate School of Tsinghua University, Tsinghua University, China Medical Promotion Association, etc., to develop a graded diagnostic and treatment solution based on medical big data of wearable devices + cloud platform + artificial intelligence.
+2. 
+3. video big data analysis algorithm research, the performance of user behaviour prediction and recommendation algorithm based on Internet video big data reaches the international leading level, and is promoted and applied in the field of network operators and video services.
+4. 
+5. Super CDN algorithm research, the new Internet CDN distribution model based on hybrid network structure proposed by this research team has a significant improvement in distribution efficiency over the traditional multilevel mirror cache CDN and P2P-based content distribution system, which can achieve the benign development of Internet CDN.
+
+6. Research on content protection and data security technology. As the initiator and core technology provider of the national ChinaDRM standard, we have internationally leading technologies and algorithms in the field of content copyright protection technology, and our research directions include blockchain authentication technology, efficient encryption algorithms, partially encrypted algorithms, data content tracking technology, and digital watermarking algorithms, with a number of performance indexes at the international leading level, and have been used by more than 10 million households both at home and abroad. The technology has been applied to more than 10 million households at home and abroad.
+
+7. The technology and standard of UTI card separation for digital TV has been promulgated by the Ministry of Industry and Information Technology of the People's Republic of China (MIIT) as an industry standard. The idea of this technology has been popularised and applied on a large scale in many European countries.
+
+
 
 {%
   include button.html
