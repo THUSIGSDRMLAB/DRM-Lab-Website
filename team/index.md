@@ -31,7 +31,7 @@ DRM Laboratory already has a series of core technologies and R&D experience in t
 Come join us! We encourage all to apply.
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+  type="join"
+  link="/contact"
 %}
 
