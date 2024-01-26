@@ -7,20 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Welcome to exchange and co-operation, the main research directions are as follows:
+1. hybrid network broadband access + BCDN technology;
+2. network security, digital content protection, video watermarking and copyright tracking technologies;
+3. video big data analysis and content recommendation technology;
+4. medical and health AI + intelligent sensors + wearable + big data cloud platform technology;
+5. broadband white spectrum ultra-wideband and 5G communication technologies; and
+6. low-latency and high-reliability Internet of Things technology; and
+
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
+  text="Wang.xingjun@sz.tsinghua.edu.cn"
   link="jane@smith.com"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
+  text="(0755) 2603-6039"
   link="+1-555-867-5309"
 %}
 {%
@@ -36,8 +41,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/1(3).jpg"
+  caption="Tsinghua University Shenzhen International Research Institute Campus View"
 %}
 
 {% endcapture %}
@@ -46,8 +51,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/1(4).jpg"
+  caption="Tsinghua University Shenzhen International Research Institute Campus View"
 %}
 
 {% endcapture %}
@@ -57,21 +62,21 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+1. Healthcare
+2. Information Security
+3. Digital TV
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+1. Healthcare
+2. Information Security
+3. Digital TV
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+1. Healthcare
+2. Information Security
+3. Digital TV
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
