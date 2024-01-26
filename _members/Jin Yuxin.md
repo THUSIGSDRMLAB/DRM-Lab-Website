@@ -1,7 +1,8 @@
 ---
 name: Jin Yuxin
 image: images/Jin Yuxin.png
-role: Student
+role: watermark
+description: Master Student
 links:
   home-page: https://jinyuxin.com
 ---
