@@ -1,7 +1,8 @@
 ---
 name: Chen Jia
 image: images/Chen Jia.png
-role: Student
+role: watermark
+description: Master Student
 links:
   home-page: https://chenjia.com
 ---
