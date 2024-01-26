@@ -1,4 +1,5 @@
 ---
+title: Home
 carousels:
   - images: 
     - image: /images/carousel/QuanTi1.jpg
