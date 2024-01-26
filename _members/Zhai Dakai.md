@@ -1,7 +1,8 @@
 ---
 name: Zhai Dakai
 image: images/Zhai Dakai.png
-role: Student
+role: watermark
+description: Master Student
 links:
   home-page: https://zhaidakai.com
 ---
