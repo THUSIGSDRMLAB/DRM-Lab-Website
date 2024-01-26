@@ -27,20 +27,16 @@ DRM Laboratory already has a series of core technologies and R&D experience in t
 
 {% include list.html data="members" component="portrait" filters="role: Student" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/1(1).jpg" %}
-{% include figure.html image="images/1(2).jpg" %}
-{% include figure.html image="images/1(3).jpg" %}
-
-{% endcapture %}
+{%
+  include link.html
+  type="link"
+  icon=""
+  text="Join the Team"
+  link="/contact"
+  style="button"
+%}
+{:.center}
 
 {% include grid.html style="square" content=content %}
