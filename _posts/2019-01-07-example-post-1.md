@@ -1,10 +1,9 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: DRM Annual Meeting
+author: Dakai-Zhai
 tags:
-  - biology
-  - medicine
-  - big data
+  - Annual Meeting
+  - celebrations
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The DRM Lab's annual wrap-up meeting for 2023 was held on 5 January 2024 in 1619 Information Building. It focused on reviewing the excellent achievements of the lab in all directions in the past year and recognised a series of advanced individuals and organisations.
