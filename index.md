@@ -3,7 +3,6 @@ title: Home
 carousels:
   - images: 
     - image: /images/QuanTi1.jpg
-    - image: /images/QuanTi2.jpg
 ---
 
 # THUSIGSDRMLAB's Website
@@ -39,7 +38,7 @@ Shenzhen International Graduate School of Tsinghua University, Shenzhen Informat
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/code-photo.jpg"
   link="research"
   title="Our Research"
   text=text
