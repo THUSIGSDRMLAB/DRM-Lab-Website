@@ -1,5 +1,5 @@
 - title: Highlight Removal
-  subtitle: Highlight removal network based on an improved dichromatic reflection model
+  subtitle: computer vision
   group: featured
   image: images/Highlight.jpg
   link: https://github.com/LittleFocus2201/ICASSP2024
@@ -46,3 +46,13 @@
   repo: greenelab/lab-website-template
   tags:
     - software
+    
+- title: Highlight Removal
+  subtitle: computer vision
+  image: images/Highlight.jpg
+  link: https://github.com/LittleFocus2201/ICASSP2024
+  description: Official implementation of ICASSP2024 paper: Highlight removal network based on an improved dichromatic reflection model. 
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - computer vision
