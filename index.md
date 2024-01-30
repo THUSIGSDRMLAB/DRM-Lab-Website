@@ -9,8 +9,6 @@ carousels:
 
 Shenzhen International Graduate School of Tsinghua University, Shenzhen Information Security and Digital Content Protection Technology Engineering Laboratory ( referred to as DRM) was established in 2008, and was approved by Shenzhen Development and Reform Commission to build a special Internet project in 2012. DRM conducts research in the direction of communication, system-on-chip integrated circuit design and new generation network in the medical field, and at the same time carries out research on application technology, key technology and transformation of technological achievements. DRM's UTI machine-card separation, content protection, anti-counterfeiting traceability and other DRM's scientific research achievements in UTI card separation, content protection, anti-counterfeiting traceability, etc. have generated sales of over ten million in China, and many of the scientific research achievements of its medical projects have been clinically applied in more than six thousand cases in many tertiary hospitals and their medical associations.
 
-
-# {% include carousel.html height="40" unit="%" duration="10" number="1" %}
  {% include figure.html image="images/QuanTi1.jpg" width="100%" %}
 
 ## Highlights
