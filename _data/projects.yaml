@@ -72,7 +72,7 @@
   group: featured
   image: images/Highlight.jpg
   link: https://github.com/LittleFocus2201/ICASSP2024
-  description: Official implementation of ICASSP2024 paper: Highlight removal network based on an improved dichromatic reflection model. 
+  description: Official implementation of ICASSP2024 paper. Highlight removal network based on an improved dichromatic reflection model. 
   repo: greenelab/lab-website-template
   tags:
     - resource
