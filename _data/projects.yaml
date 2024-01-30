@@ -1,18 +1,75 @@
-- title: Highlight Removal
-  subtitle: computer vision
+# - title: Highlight Removal
+#   subtitle: computer vision
+#   group: featured
+#   image: images/Highlight.jpg
+#   link: https://github.com/LittleFocus2201/ICASSP2024
+#   description: Official implementation of ICASSP2024 paper: Highlight removal network based on an improved dichromatic reflection model. 
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - computer vision
+
+# - title: Watermarking Framework
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/watermarking.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+
+# - title: Cool Tutorial
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+    
+# - title: Highlight Removal
+#   subtitle: computer vision
+#   image: images/Highlight.jpg
+#   link: https://github.com/LittleFocus2201/ICASSP2024
+#   description: Official implementation of ICASSP2024 paper: Highlight removal network based on an improved dichromatic reflection model. 
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - computer vision
+- title: Cool Dataset
+  subtitle: a subtitle
   group: featured
-  image: images/Highlight.jpg
-  link: https://github.com/LittleFocus2201/ICASSP2024
-  description: Official implementation of ICASSP2024 paper: Highlight removal network based on an improved dichromatic reflection model. 
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
-    - computer vision
 
-- title: Watermarking Framework
+- title: Cool Package
   subtitle: a subtitle
   group: featured
-  image: images/watermarking.jpg
+  image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
@@ -46,13 +103,3 @@
   repo: greenelab/lab-website-template
   tags:
     - software
-    
-- title: Highlight Removal
-  subtitle: computer vision
-  image: images/Highlight.jpg
-  link: https://github.com/LittleFocus2201/ICASSP2024
-  description: Official implementation of ICASSP2024 paper: Highlight removal network based on an improved dichromatic reflection model. 
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - computer vision
